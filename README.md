@@ -1,24 +1,23 @@
 # Task 8 - Simple Blog Layout using Bootstrap 5
 
-## 📌 Objective
-Create a simple blog page layout using Bootstrap 5 components such as navbar, cards, and footer.
+## 🔧 Description
+This is a responsive blog layout built using Bootstrap 5. It includes:
+- A responsive navbar
+- Blog cards with images, text, and buttons
+- A footer with social links
 
-## 🛠 Tools Used
-- HTML
+## 🌐 Technologies
+- HTML5
+- CSS3
 - Bootstrap 5 CDN
-- VS Code
 
-## 📄 Features
-- Responsive navigation bar
-- 3 blog post cards with images, titles, and buttons
-- Sticky footer with social icons
+## 🚀 How to Run
+1. Clone this repository.
+2. Open `index.html` in your browser.
 
-## 📱 Responsiveness
-The layout is fully responsive using Bootstrap’s grid system and utility classes.
+## 📸 Preview
 
-## 🔗 Live Preview
-(Add GitHub Pages link if deployed)
+![Blog Preview](https://source.unsplash.com/1200x400/?blog,technology)
 
-## 📂 How to Use
-1. Clone the repo
-2. Open `index.html` in your browser
+## 📡 Live Preview (after deployment)
+https://your-username.github.io/task-8-bootstrap-blog/
